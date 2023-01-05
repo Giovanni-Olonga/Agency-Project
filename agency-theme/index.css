@@ -1,0 +1,1195 @@
+.frame4portfolio11440-container {
+  min-height: 100vh;
+}
+.frame4portfolio11440-frame4portfolio11440 {
+  width: 100%;
+  height: 3440px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.frame4portfolio11440-background {
+  top: -4px;
+  left: -9px;
+  width: 1440px;
+  height: 400px;
+  position: absolute;
+  border-color: transparent;
+}
+.frame4portfolio11440-logo {
+  top: 16px;
+  left: 135px;
+  width: 152px;
+  height: 48px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.frame4portfolio11440-text {
+  top: 9px;
+  left: 62px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Epilogue;
+  font-weight: 700;
+  line-height: 32px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame4portfolio11440-polygon {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.frame4portfolio11440-polygon1 {
+  top: 14px;
+  left: 14px;
+  width: 19px;
+  height: 19px;
+  position: absolute;
+}
+.frame4portfolio11440-text02 {
+  top: 28px;
+  left: 585px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Epilogue;
+  font-weight: 400;
+  line-height: 32px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame4portfolio11440-dark-button-secondary-text {
+  top: 16px;
+  left: 1167px;
+  width: 138px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.frame4portfolio11440-rectangle {
+  top: 0px;
+  left: 0px;
+  width: 138px;
+  height: 48px;
+  position: absolute;
+  border-color: rgba(255, 255, 255, 0.2957427501678467);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 6px;
+}
+.frame4portfolio11440-text04 {
+  top: 18px;
+  left: 34.458824157714844px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Black;
+  text-align: center;
+  font-family: Epilogue;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame4portfolio11440-text06 {
+  top: 164px;
+  left: 565.5px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 72px;
+  align-self: auto;
+  font-style: ExtraBold;
+  text-align: center;
+  font-family: Epilogue;
+  font-weight: 800;
+  line-height: 80px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame4portfolio11440-text08 {
+  top: 268px;
+  left: 435px;
+  color: rgba(255, 255, 255, 0.6399999856948853);
+  width: 570px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Epilogue;
+  font-weight: 400;
+  line-height: 32px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame4portfolio11440-bg {
+  top: 400px;
+  left: 0px;
+  width: 1440px;
+  height: 19680px;
+  position: absolute;
+  border-color: transparent;
+}
+.frame4portfolio11440-bitmap {
+  top: 504px;
+  left: 135px;
+  width: 1170px;
+  height: 720px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(155, 154, 155, 1);
+}
+.frame4portfolio11440-mask {
+  top: 0px;
+  left: 0px;
+  width: 1170px;
+  height: 720px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 6px;
+}
+.frame4portfolio11440-bitmap01 {
+  top: -84px;
+  left: -88px;
+  width: 1170px;
+  height: 726px;
+  position: absolute;
+  border-color: transparent;
+}
+.frame4portfolio11440-overlay {
+  top: -64px;
+  left: -88px;
+  width: 1078px;
+  height: 579px;
+  opacity: 0.32;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 6px;
+}
+.frame4portfolio11440-tag {
+  top: 1048px;
+  left: 183px;
+  width: 102px;
+  height: 38px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.frame4portfolio11440-rectangle01 {
+  top: 0px;
+  left: 0px;
+  width: 102px;
+  height: 38px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 19px;
+}
+.frame4portfolio11440-text10 {
+  top: 5px;
+  left: 16px;
+  color: rgba(56, 19, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Epilogue;
+  font-weight: 400;
+  line-height: 32px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame4portfolio11440-text12 {
+  top: 1112px;
+  left: 183px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 56px;
+  align-self: auto;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Epilogue;
+  font-weight: 800;
+  line-height: 64px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame4portfolio11440-bitmap02 {
+  top: 1256px;
+  left: 135px;
+  width: 570px;
+  height: 416px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(155, 154, 155, 1);
+}
+.frame4portfolio11440-mask1 {
+  top: 0px;
+  left: 0px;
+  width: 570px;
+  height: 416px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 6px;
+}
+.frame4portfolio11440-bitmap03 {
+  top: -44.5px;
+  left: 0px;
+  width: 570px;
+  height: 505px;
+  position: absolute;
+  border-color: transparent;
+}
+.frame4portfolio11440-overlay1 {
+  top: 0px;
+  left: 0px;
+  width: 570px;
+  height: 416px;
+  opacity: 0.32;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 6px;
+}
+.frame4portfolio11440-tag1 {
+  top: 1512px;
+  left: 183px;
+  width: 84px;
+  height: 38px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.frame4portfolio11440-rectangle02 {
+  top: 0px;
+  left: 0px;
+  width: 84px;
+  height: 38px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 19px;
+}
+.frame4portfolio11440-text14 {
+  top: 5px;
+  left: 16px;
+  color: rgba(56, 19, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Epilogue;
+  font-weight: 400;
+  line-height: 32px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame4portfolio11440-text16 {
+  top: 1573px;
+  left: 183px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Epilogue;
+  font-weight: 800;
+  line-height: 48px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame4portfolio11440-bitmap04 {
+  top: 1256px;
+  left: 735px;
+  width: 570px;
+  height: 416px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(155, 154, 155, 1);
+}
+.frame4portfolio11440-mask2 {
+  top: 0px;
+  left: 0px;
+  width: 570px;
+  height: 416px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 6px;
+}
+.frame4portfolio11440-bitmap05 {
+  top: 0px;
+  left: -50px;
+  width: 670px;
+  height: 416px;
+  position: absolute;
+  border-color: transparent;
+}
+.frame4portfolio11440-overlay2 {
+  top: 0px;
+  left: 0px;
+  width: 570px;
+  height: 416px;
+  opacity: 0.32;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 6px;
+}
+.frame4portfolio11440-tag2 {
+  top: 1512px;
+  left: 783px;
+  width: 116px;
+  height: 38px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.frame4portfolio11440-rectangle03 {
+  top: 0px;
+  left: 0px;
+  width: 116px;
+  height: 38px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 19px;
+}
+.frame4portfolio11440-text18 {
+  top: 5px;
+  left: 16px;
+  color: rgba(56, 19, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Epilogue;
+  font-weight: 400;
+  line-height: 32px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame4portfolio11440-text20 {
+  top: 1573px;
+  left: 783px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Epilogue;
+  font-weight: 800;
+  line-height: 48px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame4portfolio11440-bitmap06 {
+  top: 1704px;
+  left: 135px;
+  width: 570px;
+  height: 416px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(155, 154, 155, 1);
+}
+.frame4portfolio11440-mask3 {
+  top: 0px;
+  left: 0px;
+  width: 570px;
+  height: 416px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 6px;
+}
+.frame4portfolio11440-bitmap07 {
+  top: -44.5px;
+  left: 0px;
+  width: 570px;
+  height: 505px;
+  position: absolute;
+  border-color: transparent;
+}
+.frame4portfolio11440-overlay3 {
+  top: 0px;
+  left: 0px;
+  width: 570px;
+  height: 416px;
+  opacity: 0.32;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 6px;
+}
+.frame4portfolio11440-tag3 {
+  top: 1960px;
+  left: 183px;
+  width: 86px;
+  height: 38px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.frame4portfolio11440-rectangle04 {
+  top: 0px;
+  left: 0px;
+  width: 86px;
+  height: 38px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 19px;
+}
+.frame4portfolio11440-text22 {
+  top: 5px;
+  left: 16px;
+  color: rgba(56, 19, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Epilogue;
+  font-weight: 400;
+  line-height: 32px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame4portfolio11440-text24 {
+  top: 2021px;
+  left: 183px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Epilogue;
+  font-weight: 800;
+  line-height: 48px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame4portfolio11440-bitmap08 {
+  top: 1704px;
+  left: 735px;
+  width: 570px;
+  height: 416px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(155, 154, 155, 1);
+}
+.frame4portfolio11440-mask4 {
+  top: 0px;
+  left: 0px;
+  width: 570px;
+  height: 416px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 6px;
+}
+.frame4portfolio11440-bitmap09 {
+  top: -112.5px;
+  left: 0px;
+  width: 570px;
+  height: 641px;
+  position: absolute;
+  border-color: transparent;
+}
+.frame4portfolio11440-overlay4 {
+  top: 0px;
+  left: 0px;
+  width: 570px;
+  height: 416px;
+  opacity: 0.32;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 6px;
+}
+.frame4portfolio11440-tag4 {
+  top: 1960px;
+  left: 783px;
+  width: 102px;
+  height: 38px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.frame4portfolio11440-rectangle05 {
+  top: 0px;
+  left: 0px;
+  width: 102px;
+  height: 38px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 19px;
+}
+.frame4portfolio11440-text26 {
+  top: 5px;
+  left: 16px;
+  color: rgba(56, 19, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Epilogue;
+  font-weight: 400;
+  line-height: 32px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame4portfolio11440-text28 {
+  top: 2021px;
+  left: 783px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Epilogue;
+  font-weight: 800;
+  line-height: 48px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame4portfolio11440-rectangle06 {
+  top: 2222px;
+  left: 135px;
+  width: 1170px;
+  height: 544px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 6px;
+}
+.frame4portfolio11440-text30 {
+  top: 2318px;
+  left: 235px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 56px;
+  align-self: auto;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Epilogue;
+  font-weight: 800;
+  line-height: 64px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame4portfolio11440-text37 {
+  top: 2538px;
+  left: 235px;
+  color: rgba(255, 255, 255, 0.6399999856948853);
+  width: 470px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Epilogue;
+  font-weight: 400;
+  line-height: 32px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame4portfolio11440-light-button-primary-text {
+  top: 2638px;
+  left: 235px;
+  width: 154px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.frame4portfolio11440-rectangle07 {
+  top: 0px;
+  left: 0px;
+  width: 154px;
+  height: 48px;
+  position: absolute;
+  border-color: rgba(29, 70, 246, 0.30000001192092896);
+  border-radius: 6px;
+}
+.frame4portfolio11440-text39 {
+  top: 18px;
+  left: 23.729412078857422px;
+  color: rgba(56, 19, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Black;
+  text-align: center;
+  font-family: Epilogue;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame4portfolio11440-pic {
+  top: 2263.250244140625px;
+  left: 761.25px;
+  width: 443.749755859375px;
+  height: 431.749755859375px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.frame4portfolio11440-oval {
+  top: 113.74976348876953px;
+  left: 69.74976348876953px;
+  width: 318px;
+  height: 318px;
+  position: absolute;
+  border-color: transparent;
+}
+.frame4portfolio11440-combined-shape {
+  top: 198.98739624023438px;
+  left: 200.73533630371094px;
+  width: 48px;
+  height: 127px;
+  position: absolute;
+}
+.frame4portfolio11440-combined-shape1 {
+  top: 425.2270812988281px;
+  left: 195.07334899902344px;
+  width: 49px;
+  height: 82px;
+  position: absolute;
+}
+.frame4portfolio11440-bitmap10 {
+  top: 57.74976348876953px;
+  left: 197.74977111816406px;
+  width: 246px;
+  height: 305px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.frame4portfolio11440-mask5 {
+  top: 0px;
+  left: 0px;
+  width: 246px;
+  height: 305px;
+  position: absolute;
+}
+.frame4portfolio11440-bitmap11 {
+  top: 25px;
+  left: 0px;
+  width: 246px;
+  height: 280px;
+  position: absolute;
+  border-color: transparent;
+}
+.frame4portfolio11440-block {
+  top: 215.749755859375px;
+  left: 13.749765396118164px;
+  width: 214px;
+  height: 112px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(255, 255, 255, 1);
+}
+.frame4portfolio11440-oval1 {
+  top: 18px;
+  left: 17px;
+  width: 45px;
+  height: 45px;
+  position: absolute;
+  border-color: transparent;
+}
+.frame4portfolio11440-rectangle08 {
+  top: 27px;
+  left: 83px;
+  width: 62px;
+  height: 14px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 2px;
+}
+.frame4portfolio11440-rectangle09 {
+  top: 65px;
+  left: 83px;
+  width: 6px;
+  height: 29px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 3px;
+}
+.frame4portfolio11440-rectangle10 {
+  top: 60px;
+  left: 100px;
+  width: 6px;
+  height: 34px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 3px;
+}
+.frame4portfolio11440-rectangle11 {
+  top: 56px;
+  left: 118px;
+  width: 6px;
+  height: 38px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 3px;
+}
+.frame4portfolio11440-rectangle12 {
+  top: 63px;
+  left: 135px;
+  width: 6px;
+  height: 31px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 3px;
+}
+.frame4portfolio11440-rectangle13 {
+  top: 69px;
+  left: 152px;
+  width: 6px;
+  height: 25px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 3px;
+}
+.frame4portfolio11440-rectangle14 {
+  top: 65px;
+  left: 170px;
+  width: 6px;
+  height: 29px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 3px;
+}
+.frame4portfolio11440-rectangle15 {
+  top: 73px;
+  left: 187px;
+  width: 6px;
+  height: 21px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 3px;
+}
+.frame4portfolio11440-star {
+  top: 0px;
+  left: 33.292755126953125px;
+  width: 148px;
+  height: 148px;
+  position: absolute;
+}
+.frame4portfolio11440-shape {
+  top: 72.74976348876953px;
+  left: 72.74976348876953px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+}
+.frame4portfolio11440-text41 {
+  top: 2855px;
+  left: 135px;
+  color: rgba(56, 19, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Epilogue;
+  font-weight: 700;
+  line-height: 32px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame4portfolio11440-text43 {
+  top: 2858px;
+  left: 435px;
+  color: rgba(239, 109, 88, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Epilogue;
+  font-weight: 400;
+  line-height: 32px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame4portfolio11440-text45 {
+  top: 2906px;
+  left: 435px;
+  color: rgba(56, 19, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Epilogue;
+  font-weight: 400;
+  line-height: 32px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame4portfolio11440-text54 {
+  top: 2858px;
+  left: 735px;
+  color: rgba(239, 109, 88, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Epilogue;
+  font-weight: 400;
+  line-height: 32px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame4portfolio11440-text56 {
+  top: 2906px;
+  left: 735px;
+  color: rgba(56, 19, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Epilogue;
+  font-weight: 400;
+  line-height: 32px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame4portfolio11440-social {
+  top: 2846px;
+  left: 1145px;
+  width: 160px;
+  height: 48px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.frame4portfolio11440-oval2 {
+  top: 0px;
+  left: 112px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+  border-color: transparent;
+}
+.frame4portfolio11440-instagram {
+  top: 16px;
+  left: 128px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+}
+.frame4portfolio11440-oval3 {
+  top: 0px;
+  left: 56px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+  border-color: transparent;
+}
+.frame4portfolio11440-twitter {
+  top: 18px;
+  left: 72px;
+  width: 16px;
+  height: 13px;
+  position: absolute;
+}
+.frame4portfolio11440-oval4 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+  border-color: transparent;
+}
+.frame4portfolio11440-facebook {
+  top: 16px;
+  left: 19px;
+  width: 9px;
+  height: 16px;
+  position: absolute;
+}
+.frame4portfolio11440-rectangle16 {
+  top: 3102px;
+  left: 135px;
+  width: 1170px;
+  height: 1px;
+  position: absolute;
+  border-color: transparent;
+}
+.frame4portfolio11440-text65 {
+  top: 3146px;
+  left: 135px;
+  color: rgba(57, 20, 0, 0.6399999856948853);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Epilogue;
+  font-weight: 400;
+  line-height: 32px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame4portfolio11440-text67 {
+  top: 3146px;
+  left: 1200px;
+  color: rgba(56, 19, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: right;
+  font-family: Epilogue;
+  font-weight: 400;
+  line-height: 32px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame4portfolio11440-text69 {
+  top: 3146px;
+  left: 1030px;
+  color: rgba(56, 19, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: right;
+  font-family: Epilogue;
+  font-weight: 400;
+  line-height: 32px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
